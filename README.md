@@ -1,3 +1,0 @@
-# NitLyn
-
-We do stuff.
