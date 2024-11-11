@@ -1,3 +1,3 @@
-# NitLyn
+# Nitlyn
 
 We do stuff.
